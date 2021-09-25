@@ -4,6 +4,28 @@
 
 
 
+Installation
+
+```
+flutter pub get
+```
+Usage 
+
+```
+flutter run
+```
+
+
+### How To Run
+-----------------------
+#### Clone this repo
+#### Run flutter packages get
+#### Run flutter run (remember open simulator or connect physical device, iOS auto run additional command pod install)
+
+
+
+
+
 | <img src="https://user-images.githubusercontent.com/51333268/134767295-eb274ae0-9395-49ea-9f1e-94309d605fff.PNG"  width="300"/> | <img src="https://user-images.githubusercontent.com/51333268/134767301-ecac9956-e7a1-4d68-a79d-68bd9b1183c0.PNG"  width="300"/> |
 
 
